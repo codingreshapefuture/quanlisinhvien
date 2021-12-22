@@ -1,0 +1,21 @@
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.exe.config
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.exe
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.pdb
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.AssemblyReference.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.SuggestedBindingRedirects.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.Properties.Resources.resources
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.GenerateResource.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.exe
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.pdb
+C:\Users\Win 8.1 Version 2\Desktop\Project\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanly_Sinhvien.ManageStudent.resources
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.exe.config
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.exe
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\bin\Debug\Quanlysinhvien.pdb
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.exe
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanlysinhvien.pdb
+C:\Users\Admin\Desktop\Quanlysinhvien\Quanlysinhvien\Quanlysinhvien\obj\Debug\Quanly_Sinhvien.ManageStudent.resources

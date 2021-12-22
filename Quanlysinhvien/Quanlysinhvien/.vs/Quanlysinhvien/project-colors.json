@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0c181471-f314-4162-b23d-ca2de971c089": {
+      "ProjectGuid": "0c181471-f314-4162-b23d-ca2de971c089",
+      "DisplayName": "Quanlysinhvien",
+      "ColorIndex": 0
+    },
+    "32a0a94b-b45e-4722-a03b-3caae4e100e4": {
+      "ProjectGuid": "32a0a94b-b45e-4722-a03b-3caae4e100e4",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
