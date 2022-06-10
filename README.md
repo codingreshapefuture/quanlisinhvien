@@ -1,3 +1,3 @@
-# quanlisinhvien with C#
-# Author : merlin2x3
-# Contact me : facebook.com/berlin.03
+# Quanlisinhvien with C#
+
+Author : merlin2x3
